@@ -1,2 +1,2 @@
-# gophercises-url-short
-gophercises exercise for shortening a url
+# gophercises
+Exercises from https://courses.calhoun.io/courses/cor_gophercises
